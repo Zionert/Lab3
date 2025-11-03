@@ -1,5 +1,3 @@
-import json
-
 #Klasa Książka
 class Book:
     # Inicjalizacja obiektu książki
